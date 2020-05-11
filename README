@@ -1,0 +1,12 @@
+Po spusteni aplikace muzete nastavit ruzne hodnoty uceni 
+
+pak pokracujete tlacitkom browse image a vyberete si nejaky obrazok 
+na ktere sa bude sit ucit. je vhodne aby tento obrazok nebyl prilis velky.
+
+stlacenim tlacitka learn se spusti uceni a jeji prubbeh muzete sledovat na progerssbaru
+
+po po skonceni ucenia se zobrazi preneseny obrazok
+
+pak pokracujte zvonvu tlacitkom browse image aby ste vybrali obrazok ktery chcete prenest.
+
+po kliknut na tlacidlo transmit se provede kodovani a dekodovani site na vstupny obrazok a do vystupneho okna se zobrazy preneseny obrazok.
